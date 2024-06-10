@@ -24,7 +24,7 @@ Navigate to the project directory and execute `npm install` (or `yarn install`) 
 
 ### Running the App
 
-To launch the app on an Android device or emulator, run `expo start` in your terminal. For iOS, follow Expo's instructions for iOS development setup ([invalid URL removed]).
+To launch the app on an Android device or emulator, run `expo start` in your terminal.
 
 ## Tutorial Reference
 
