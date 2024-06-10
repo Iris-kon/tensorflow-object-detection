@@ -1,7 +1,5 @@
 # Camera App with Object Detection using TensorFlow.js, CocoSsd, and Expo
 
-## Description
-
 This project is a fully functional camera application built with React Native (Expo) that leverages the power of TensorFlow.js for real-time object detection. It utilizes the pre-trained CocoSsd model to identify various objects within the camera view, providing an interactive and informative experience.
 
 ## Key Features
